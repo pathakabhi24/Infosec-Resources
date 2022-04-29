@@ -630,6 +630,8 @@ If you are new, you should start with high school level and eventually level up 
 - CSAW RED (high school level) - Formerly known as CSAW HSF
 - CSAW CTF (college level)
 
+For more details about CTF [here](/1_CTF_Detailed-View.md). Complete list of how many type of CTF present on the internet.
+
 # Binary Exploitation
 
 - [pwn.college](https://pwn.college/) - Guide written by Zardus and adam doupe, former organisers of DEF CON CTF
