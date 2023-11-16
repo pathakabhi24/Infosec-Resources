@@ -154,7 +154,7 @@ This repository is an overview of what resources you need in cybersecurity which
 
 ## Books / Manuals
 
-**Warning :** I haven't read them all so do not consider I am recommending as I liked them. They just seem to provide useful resources.
+**Warning:** I have not read all of them so do not consider I am recommending them because I liked them. Those seem to provide useful resources that's why I'm recommending them.
 
 - [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641) (2014)
 - [Kali Linux Revealed](https://www.amazon.com/Kali-Linux-Revealed-Penetration-Distribution/dp/0997615605) - [PDF](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) (2017)
@@ -383,11 +383,10 @@ More Podcasts (Verification Required): [Naked Security](https://nakedsecurity.so
 [rbm-google]: https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9lRVpIazJhTA
 
 
-# Discord servers
+# Discord servers 
+(Remember to be nice there, don't be rude or annoying, etc. Act like an adult)
 
-Remember to be nice, don't be rude or annoying, etc. Act like an adult.
-
-- [Reverse Engineering discord](https://discord.com/invite/weKN5wb) - **do NOT discuss game hacking in this Discord or you will be banned.**
+- [Reverse Engineering discord](https://discord.com/invite/weKN5wb) - **Do Not discuss game hacking in this Discord or you will be banned.**
 - [Capture the Flag discord](https://discord.gg/ArjWjvctft) - CTF community
 - [Secret club public discord](https://discord.com/invite/BT764JJDhe) - Administered by Carl Schou and Derek Rynd.
 - [gynvael's server](https://discord.gg/QAwfE5R) - administered by gynvael.
@@ -590,7 +589,7 @@ See also: [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) by @
 - Online anonimity, and Tor + VPN tutorials: via [ivpn](https://www.ivpn.net/privacy-guides)
 
 
-## More Awesome GitHub Lists
+## Awesome GitHub Lists
 
 - **Awesome Open Source Apps**
   - [awesome-windows-apps](https://github.com/Awesome-Windows/Awesome) by 'many'
@@ -602,11 +601,13 @@ See also: [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) by @
   - [privacy-respecting](https://github.com/nikitavoloboev/privacy-respecting) by @nikitavoloboev
   - [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) by @KevinColemanInc
   - [privacy-respecting-software](https://github.com/Lissy93/personal-security-checklist/blob/master/5_Privacy_Respecting_Software.md) by @lissy93
+    
 - **Guides**
   - [MacOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) by @drduh
   - [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) by @drduh
   - [Debian-Privacy-Server-Guide](https://github.com/drduh/Debian-Privacy-Server-Guide) by @drduh
   - [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) by @lissy93
+    
 - **Security Links (Hacking / Pen Testing / Threat Inteligence / CFTs)**
   - [Security_list](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
   - [awesome-security](https://github.com/sbilly/awesome-security) by @sbilly
@@ -624,8 +625,10 @@ See also: [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) by @
   - [awesome-osint](https://github.com/jivoi/awesome-osint) by @jivoi
   - [SecLists](https://github.com/danielmiessler/SecLists) by @danielmiessler
   - [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
+    
 - **Misc**
   - [awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) by @pFarb
+    
 - **Awesome Lists of Awesome Lists**
   - [awesome]( https://github.com/sindresorhus/awesome) by @sindresorhus
   - [lists](https://github.com/jnv/lists) by @jnv
